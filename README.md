@@ -1,2 +1,2 @@
-# Simple_neuron_models
-Simple neuron models in python
+# Reccuring_neuron_models
+Reccuring neuron models in python
